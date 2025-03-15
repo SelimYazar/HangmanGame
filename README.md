@@ -107,4 +107,3 @@ HangmanGame/
 
 ---
 
-This complete README.md content can be used as the main documentation for your GitHub repository.
